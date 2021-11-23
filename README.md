@@ -53,7 +53,8 @@ hibernate.show_sql=true
 hibernate.hbm2ddl.auto=create
 hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
 ```
-- Run this project using Tomcat local server
+- Run this project using Tomcat local server<br/>
+
 You will be redirected to login page. You can use default users:
 - email: bob@gmail.com, password: 12345678 (admin role)
 - email: user@gmail.com, password: 87654321 (user role)
